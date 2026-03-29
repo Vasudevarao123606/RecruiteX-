@@ -9,7 +9,7 @@ One platform. Every opportunity. Built for students.
 👩‍🏫 Faculty	Sirisha Ma'am
 🌐 Live Link	recruit-x1.vercel.app
 👥 Team Members
-#	Name
+#Name
 1	👤 P. Navya Sri
 2	👤 P. Hashika
 3	👤 P. Satyanarayana
